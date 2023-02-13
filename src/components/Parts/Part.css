@@ -1,0 +1,20 @@
+.cards {
+    display: inline-block;
+    transition: transform .2s;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0.19rem;
+    cursor:pointer;
+    width:300px;
+    height:400px;
+    position: relative;
+    border: 1px solid rgb(99, 99, 99);
+}
+
+.cards:hover {
+    transform: scale(1);
+    /* z-index: 1000; */
+    box-shadow: rgba(245, 80, 38, 0.678) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(230, 199, 199, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+

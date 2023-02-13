@@ -1,0 +1,176 @@
+[
+    {
+        "id": "1",
+        "name": "Engine",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Engine-300x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$2000"
+    },
+    {
+        "id": "2",
+        "name": "Transmission",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Transmission-291x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$700"
+    },
+    {
+        "id": "3",
+        "name": "Frame",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-frame.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$1000"
+    },
+    {
+        "id": "4",
+        "name": "Clutch Lever",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Clutch-Lever.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$100"
+    },
+    {
+        "id": "5",
+        "name": "Front Brake Lever",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Front-Brake-Lever.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$10"
+    },
+    {
+        "id": "6",
+        "name": "Rear Brake Pedal",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Rear-Brake-Pedal-290x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$40"
+    },
+    {
+        "id": "7",
+        "name": "Throttle",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Throttle.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$70"
+    },
+    {
+        "id": "8",
+        "name": "Gear Shifter",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Gear-Shifter.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$30"
+    },
+    {
+        "id": "9",
+        "name": "Horn",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Horn-300x267.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$60"
+    },
+    {
+        "id": "10",
+        "name": "Pegs",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Pegs-300x250.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$20"
+    },
+    {
+        "id": "11",
+        "name": "Engine Guards",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Engine-Guard-300x220.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$100"
+    },
+    {
+        "id": "12",
+        "name": "Signal Lights",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Signal-Lights.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$110"
+    },
+    {
+        "id": "13",
+        "name": "Head Lights",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Headlights-300x296.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$160"
+    },
+    {
+        "id": "14",
+        "name": "Mirrors",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Mirror-300x266.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$100"
+    },
+    {
+        "id": "15",
+        "name": "Start Button",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Start-Button-300x272.jpg?ezimgfmt=ngcb19/notWebP",
+        "price": "$10"
+    },
+    {
+        "id": "16",
+        "name": "Choke",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Choke-300x247.jpg?ezimgfmt=ngcb19/notWebP",
+        "price": "$90"
+    },
+    {
+        "id": "17",
+        "name": "Ignition Key Switch",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Ignition-Key-Switch-300x262.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$50"
+    },
+    {
+        "id": "18",
+        "name": "Fuel Tank",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Fuel-Tank.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$600"
+    },
+    {
+        "id": "19",
+        "name": "Front Fork",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Front-Fork-1-247x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$70"
+    },
+    {
+        "id": "20",
+        "name": "Tires",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Tire-208x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$400"
+    },
+    {
+        "id": "21",
+        "name": "Rims",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Rim.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$40"
+    },
+    {
+        "id": "22",
+        "name": "Brakes",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Brakes-260x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$90"
+    },
+    {
+        "id": "23",
+        "name": "Kickstand",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Kickstand-207x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$40"
+    },
+    {
+        "id": "24",
+        "name": "Rear Suspension",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Rear-Suspension-286x300.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$700"
+    },
+    {
+        "id": "25",
+        "name": "Exhaust Pipe",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Exhaust-Pipe-300x230.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$200"
+    },
+    {
+        "id": "26",
+        "name": "Seat",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Seat-300x220.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$600"
+    },
+    {
+        "id": "27",
+        "name": "Battery",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Battery-300x280.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$300"
+    },
+    {
+        "id": "28",
+        "name": "Dashboard",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Motorcycle-Dashboard.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$200"
+    },
+    {
+        "id": "29",
+        "name": "Storage",
+        "img": "https://www.theengineerspost.com/wp-content/uploads/2022/08/Saddle-Bag-300x285.jpg?ezimgfmt=ng:webp/ngcb19",
+        "price": "$150"
+    }
+]
